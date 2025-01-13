@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F1E20B-C38C-4448-85E8-2BDA99A9D463}|TestApplication\\TestApplication.csproj|c:\\users\\musas\\onedrive\\desktop\\unittestproject\\test\\testapplication\\repositories\\categoryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F1E20B-C38C-4448-85E8-2BDA99A9D463}|TestApplication\\TestApplication.csproj|solutionrelative:testapplication\\repositories\\categoryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F1E20B-C38C-4448-85E8-2BDA99A9D463}|TestApplication\\TestApplication.csproj|c:\\users\\musas\\onedrive\\desktop\\unittestproject\\test\\testapplication\\repositories\\irepositories\\icategoryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F1E20B-C38C-4448-85E8-2BDA99A9D463}|TestApplication\\TestApplication.csproj|solutionrelative:testapplication\\repositories\\irepositories\\icategoryrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AE31DE-A120-4F16-B216-34B314528999}|TestAPPO\\TestAPPO.csproj|c:\\users\\musas\\onedrive\\desktop\\unittestproject\\test\\testappo\\categoryntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AE31DE-A120-4F16-B216-34B314528999}|TestAPPO\\TestAPPO.csproj|solutionrelative:testappo\\categoryntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F1E20B-C38C-4448-85E8-2BDA99A9D463}|TestApplication\\TestApplication.csproj|c:\\users\\musas\\onedrive\\desktop\\unittestproject\\test\\testapplication\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F1E20B-C38C-4448-85E8-2BDA99A9D463}|TestApplication\\TestApplication.csproj|solutionrelative:testapplication\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 246,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TestApplication\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TestApplication\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:29:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\Repositories\\IRepositories\\ICategoryRepositories.cs",
+              "RelativeDocumentMoniker": "TestApplication\\Repositories\\IRepositories\\ICategoryRepositories.cs",
+              "ToolTip": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\Repositories\\IRepositories\\ICategoryRepositories.cs",
+              "RelativeToolTip": "TestApplication\\Repositories\\IRepositories\\ICategoryRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:06:22.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryNTest.cs",
+              "DocumentMoniker": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\CategoryNTest.cs",
+              "RelativeDocumentMoniker": "TestAPPO\\CategoryNTest.cs",
+              "ToolTip": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\CategoryNTest.cs",
+              "RelativeToolTip": "TestAPPO\\CategoryNTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:09:06.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\Repositories\\CategoryRepositories.cs",
+              "RelativeDocumentMoniker": "TestApplication\\Repositories\\CategoryRepositories.cs",
+              "ToolTip": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\Repositories\\CategoryRepositories.cs",
+              "RelativeToolTip": "TestApplication\\Repositories\\CategoryRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:53:46.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
