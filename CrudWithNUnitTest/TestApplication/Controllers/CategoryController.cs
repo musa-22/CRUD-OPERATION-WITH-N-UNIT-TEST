@@ -1,12 +1,32 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TestApplication.Data;
+using TestApplication.Repositories.IRepositories;
 
 namespace TestApplication.Controllers
 {
+
     public class CategoryController : Controller
     {
-        public IActionResult Index()
+
+        private  ICategoryRepositories  _categoryRep;
+
+        public CategoryController(ICategoryRepositories categoryRepositories)
         {
-            return View();
+          this._categoryRep = categoryRepositories;
         }
+
+
+
+
+        public async Task <IActionResult> Index()
+        {
+          var getCategories = await _categoryRep.GetAllAsync();
+
+            return View(getCategories); 
+        }
+
+
+
+
     }
 }

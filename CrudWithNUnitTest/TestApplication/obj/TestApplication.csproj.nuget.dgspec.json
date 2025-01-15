@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj": {}
+    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj": {
+    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj",
+        "projectUniqueName": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj",
         "projectName": "TestApplication",
-        "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj",
+        "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj",
         "packagesPath": "C:\\Users\\musas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\obj\\",
+        "outputPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

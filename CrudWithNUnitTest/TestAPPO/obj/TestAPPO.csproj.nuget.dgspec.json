@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\TestAPPO.csproj": {}
+    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestAPPO\\TestAPPO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj": {
+    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj",
+        "projectUniqueName": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj",
         "projectName": "TestApplication",
-        "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj",
+        "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj",
         "packagesPath": "C:\\Users\\musas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\obj\\",
+        "outputPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\TestAPPO.csproj": {
+    "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestAPPO\\TestAPPO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\TestAPPO.csproj",
+        "projectUniqueName": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestAPPO\\TestAPPO.csproj",
         "projectName": "TestAPPO",
-        "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\TestAPPO.csproj",
+        "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestAPPO\\TestAPPO.csproj",
         "packagesPath": "C:\\Users\\musas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestAPPO\\obj\\",
+        "outputPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestAPPO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj": {
-                "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\Test\\TestApplication\\TestApplication.csproj"
+              "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj": {
+                "projectPath": "C:\\Users\\musas\\OneDrive\\Desktop\\UnitTestProject\\CrudWithNUnitTest\\TestApplication\\TestApplication.csproj"
               }
             }
           }
@@ -149,6 +149,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "NUnit": {
               "target": "Package",
